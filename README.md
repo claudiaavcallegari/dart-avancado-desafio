@@ -10,6 +10,6 @@ Possuir  docker instalado .
 Possuir  Dart instalado.
 
 Para subir Mysql :
-Em terminar na pasta do projeto execute:
+Em terminal na pasta do projeto execute:
 docker-compose up
 
