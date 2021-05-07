@@ -13,3 +13,9 @@ Para subir Mysql :
 Em terminal na pasta do projeto execute:
 docker-compose up
 
+Possui tabela "pais", com registro 1 = Brasil
+
+Importante ressaltar que para trabalhar com outros países, seria necessário alterar estrutuda das tabelas : estado e cidade  , inserindo campo id  auto increment  e outro campo de id para cidade e estado, para não conflitar com id de outros países.
+
+
+
