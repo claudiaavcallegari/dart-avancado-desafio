@@ -3,7 +3,7 @@ Desafio Dart Avançado
 
 Aplicação pega estados e cidades na API do site do IBGE e insere em tabelas do Mysql.
 
-Usa container doker para instaciar Mysql, o qual instala na porta 3310 .
+Usa container docker para instanciar Mysql, o qual instala na porta 3310 .
 
 Pré requisitos:
 Possuir  docker instalado .
